@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="fly">fly</string>
+    <string name="left">左</string>
+    <string name="right">右</string>
+    <string name="logo">logo</string>
+</resources>
